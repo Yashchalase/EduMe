@@ -1,6 +1,8 @@
 # EduMe
 
 EduMe – E-Learning Website - An educational platform for students and programmers!
+![image](https://github.com/user-attachments/assets/90af39d7-35dc-47bb-91a5-7fb7ccd01919)
+
 
 
 🚀 About EduMe
